@@ -1,6 +1,6 @@
 import time
 import os
-
+#buh
 sec = 0.25
 
 frame1 = "/(0u0)/ "
